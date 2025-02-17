@@ -156,11 +156,12 @@ section.after {
   z-index: 10;
   top: 0;
   left: 0;
-  height: 70px;
-  width: 54px;
+  height: 40px;
+  width: 35px;
   cursor: pointer;
   background: url(../gambar/menu.png) no-repeat center;
   background-size: 44px;
+  
 }
 
 .tombol_menu:active {
@@ -172,7 +173,7 @@ section.after {
 .judul_halaman {
   color: white;
   font-weight: 500;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   font-family: 'Poppins', sans-serif;
   text-align: center;
   margin: 0;
